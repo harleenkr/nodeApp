@@ -9,6 +9,8 @@
 
 index.js
 
+app/model/schema.js
+
 package.json
 
 README.MD
